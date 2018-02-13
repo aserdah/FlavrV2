@@ -1,11 +1,11 @@
 # Flavr
 
-Flavr ia an iOS food description app 
-
-   TRON for restfull api
-   MagicalRecord and CoreData 
-   SwiftValidator for user side validation
-   TabBar controller
+Flavr ia an iOS food description app. 
+#Flavr using
+   TRON for restfull api.
+   MagicalRecord and CoreData. 
+   SwiftValidator for user side validation.
+   TabBar controller.
 
 
 
