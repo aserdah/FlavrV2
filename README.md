@@ -17,6 +17,15 @@ SwiftValidator for user side validation.</p>
 TabBar controller.</p>
 
 
+   <p> 	UIKit / Cocoa Touch, Foundation.</p>
+	   <p>Local and online Validation. </p>
+	   <p>Parse and RESTful backend APIs integration, JSON parsing.</p>
+   <p>CoreData for local storage, working with multiple contexts.</p>
+	   <p>Alamofire and Torn networking library.</p>
+   <p>Kingfisher image loading and caching library.</p>
+   <p>AutoLayout and Size Classes.</p>
+   <p>CocoaPods to manage dependencies.</p>
+
 
 
 <img src="https://raw.githubusercontent.com/aserdah/FlavrV2/master/Flavr/Assets.xcassets/2.png">
